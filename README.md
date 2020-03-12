@@ -7,7 +7,8 @@ In this repository, I am submitting an end to end exercise of model building. Fo
 2. Statistical analysis
 
 3. Data pre-processing  
-   a. Missing data imputation \n
+   a. Missing data imputation 
+   
    b. Categorical to numeric conversion
 
 4. Model Building 
